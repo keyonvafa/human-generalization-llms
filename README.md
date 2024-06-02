@@ -1,6 +1,17 @@
 # Measuring the Human Generalization Function
 Source code for the paper "Do Large Language Models Generalize the way People Expect? Measuring the Human Generalization Function" by Keyon Vafa, Ashesh Rambachan, and Sendhil Mullainathan.
 
+If you find this repository useful for your research, please consider citing our work:
+
+```
+@inproceedings{vafa2024generalization,
+  title={Do Large Language Models Generalize the way People Expect? Measuring the Human Generalization Function},
+  author={Vafa, Keyon and Rambachan, Ashesh and Mullainathan, Sendhil},
+  booktitle={International Conference on Machine Learning},
+  year={2024},
+}
+```
+
 ## Data
 
 The folder `data/` contains the data we collect about human generalizations. There are two folders, `train.csv` and `test.csv`. `train.csv` contains the 18480 examples used to train the model, and `test.csv` contains the 492 examples used for evaluation. See our paper for more information for how these datasets are constructed.
