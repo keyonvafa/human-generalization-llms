@@ -1,11 +1,11 @@
 # Measuring the Human Generalization Function
-Source code for the paper "Do Large Language Models Generalize the way People Expect? Measuring the Human Generalization Function" by Keyon Vafa, Ashesh Rambachan, and Sendhil Mullainathan.
+Source code for the paper "Do Large Language Models Perform the way People Expect? Measuring the Human Generalization Function" by Keyon Vafa, Ashesh Rambachan, and Sendhil Mullainathan.
 
 If you find this repository useful for your research, please consider citing our work:
 
 ```
 @inproceedings{vafa2024generalization,
-  title={Do Large Language Models Generalize the way People Expect? Measuring the Human Generalization Function},
+  title={Do Large Language Models Perform the way People Expect? Measuring the Human Generalization Function},
   author={Vafa, Keyon and Rambachan, Ashesh and Mullainathan, Sendhil},
   booktitle={International Conference on Machine Learning},
   year={2024},
